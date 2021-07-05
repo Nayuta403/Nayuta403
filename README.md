@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 I'm Nayuta403 an engineer who loves 🎵🎸
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nayuta403)
 
