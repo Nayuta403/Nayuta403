@@ -4,7 +4,7 @@
 
 - 🔭 贝壳高级 Android 工程师
 - 🌱 Android/Flutter 
-- 👯 [（China Flutter User Group）CFUG](https://github.com/cfug) / [fluttercandies](https://github.com/fluttercandies)/ [LianjiaTech](https://github.com/LianjiaTech) 成员
+- 👯 [CFUG（China Flutter User Group）](https://github.com/cfug) / [fluttercandies](https://github.com/fluttercandies)/ [LianjiaTech](https://github.com/LianjiaTech) 成员
 - 💬 博客首页 [掘金](https://juejin.cn/user/4309694831660711)
 - 📫 762579473@qq.com
 - ⚡ 公众号：进击的 Flutter 专注于 Flutter 进阶与优化指南
