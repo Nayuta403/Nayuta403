@@ -9,7 +9,6 @@
 - 📫 762579473@qq.com
 - ⚡ 公众号：进击的 Flutter 专注于 Flutter 进阶与优化指南
 
-![image](https://user-images.githubusercontent.com/40540394/124443711-7c0ad780-ddb0-11eb-9772-89d875e0a6d9.png)
 
 <!--
 **Nayuta403/Nayuta403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
