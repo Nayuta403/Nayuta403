@@ -6,7 +6,7 @@
 - 🌱 Android/Flutter Full-time worker
 - 🏡 [Bytedance](https://github.com/bytedance) / [CFUG（China Flutter User Group）](https://github.com/cfug) / [fluttercandies](https://github.com/fluttercandies)/ [LianjiaTech](https://github.com/LianjiaTech) member
 - 💬 bolg [juejin.cn](https://juejin.cn/user/4309694831660711)
-- 📫 762579473@qq.com
+- 📫 w1ingslemon@gmail.com
 - ⚡ Wechat account：`runflutter` focus on the principles of Flutter
 
 
