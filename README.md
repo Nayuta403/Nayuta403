@@ -2,9 +2,9 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nayuta403)
 
-- 🔭 I’m currently working on Bytedance flutter infra team.
+- 🔭 I’m currently working in Bytedance flutter infra team.
 - 🌱 Android/Flutter Full-time worker
-- 👯 [CFUG（China Flutter User Group）](https://github.com/cfug) / [fluttercandies](https://github.com/fluttercandies)/ [LianjiaTech](https://github.com/LianjiaTech) member
+- 🏡 [Bytedance](https://github.com/bytedance) / [CFUG（China Flutter User Group）](https://github.com/cfug) / [fluttercandies](https://github.com/fluttercandies)/ [LianjiaTech](https://github.com/LianjiaTech) member
 - 💬 bolg [juejin.cn](https://juejin.cn/user/4309694831660711)
 - 📫 762579473@qq.com
 - ⚡ Wechat account：`runflutter` focus on the principles of Flutter
