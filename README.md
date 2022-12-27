@@ -1,4 +1,4 @@
-- 🔭 I’m currently working in Bytedance flutter infra team.
+- 🔭 I’m currently working in Bytedance.
 - 🌱 [Flutter & Dart GDE](https://developers.google.com/community/experts/directory/profile/profile-junda-du)
 - 🏡 [Bytedance](https://github.com/bytedance) / [CFUG（China Flutter User Group）](https://github.com/cfug) / [fluttercandies](https://github.com/fluttercandies)/ [LianjiaTech](https://github.com/LianjiaTech) member
 - 💬 bolg [juejin.cn](https://juejin.cn/user/4309694831660711)
