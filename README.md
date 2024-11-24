@@ -1,5 +1,6 @@
 - 🔭 I’m currently working in Bytedance.
-- 🌱 [Flutter & Dart GDE](https://developers.google.com/community/experts/directory/profile/profile-junda-du) Flutter team member
+- 🌱 [Flutter & Dart GDE](https://developers.google.com/community/experts/directory/profile/profile-junda-du)
+- 🌏 Flutter team member(2022-2024)
 - 💬 bolg [juejin.cn](https://juejin.cn/user/4309694831660711)
 - 📫 w1ingslemon@gmail.com
 - ⚡ Wechat account：`runflutter` focus on the principles of Flutter
