@@ -1,4 +1,4 @@
-- 🔭 I work at ByteDance as the technical director of [(AI operating mobile phone functions)](https://www.ifanr.com/1647590) in Doubao mobile assistant
+- 🔭 I work at ByteDance as the technical leader of [(AI operating mobile phone functions)](https://www.ifanr.com/1647590) in Doubao mobile assistant
 - 🌱 [Flutter & Dart GDE(Google Developer Expert)](https://developers.google.com/community/experts/directory/profile/profile-junda-du)
 - 🌏 Flutter team member(2022-2024)
 - 💬 bolg [juejin.cn](https://juejin.cn/user/4309694831660711)
